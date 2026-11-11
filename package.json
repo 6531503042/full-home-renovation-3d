@@ -1,0 +1,8 @@
+{
+  "name": "full-home-japandi-renovation-3d",
+  "version": "1.0.0",
+  "description": "Unified 20.16 sqm Full-Home 3D Renovation Studio (Lounge & Bedroom Unified)",
+  "scripts": {
+    "start": "python3 server.py"
+  }
+}
