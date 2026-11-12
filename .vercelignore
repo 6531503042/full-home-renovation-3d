@@ -1,0 +1,4 @@
+# ponytail: limit this static deploy to the page and routing config; explicitly allow assets if the site starts serving local files.
+*
+!index.html
+!vercel.json
